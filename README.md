@@ -2,44 +2,20 @@
 
 This repo is meant to be a community-managed collection of rotation templates to use with the Special Forces BHUD module.
 
-Templates are listed by profession
+Templates are sorted by profession
 
-# Elementalist
+## How to Use:
+- Click on the folder of the profession you want to find a rotation for
+- Click on one of the builds you want to use
+- Copy the code after `Rotation Template`
+- Open Special Forces module, click "Import from Clipboard"
 
-## Power Catalyst - Snowcrows
-Build Template Code: `[&DQYfHSkfQyb+GgAAvgEAAPgaAADuGgAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]`
+## How to Contribute:
+- Clone the repo
+- Create your own branch
+- Copy-paste the template file into the profession folder for your build
+- Rename the copied file according to the template
+- Update the file template, save
+- Make the commit, push it, then create a pull request
 
-Rotation Template: ```[&eyJ1aWQiOiIyYzA3ZmE2Yy01NTI3LTRkMDItOTI4OC00MzlkNjgzMmY2NmYiLCJtYXQiOiIyMDIzLTAzLTA2VDA5OjE5OjEwLjA3LTA2OjAwIiwiZ3cyIjoxNDIyMzksInRpdCI6IlBvd2VyIENhdGFseXN0IiwidGVtIjoiWyZEUVlmSFNrZlF5YitHZ0FBdmdFQUFQZ2FBQUR1R2dBQWx3QUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQT1dIiwicHJ3Ijp7Im1oZCI6MTMsIm9oZCI6MX0sInNudyI6eyJtaGQiOjEsIm9oZCI6MX0sInJvdCI6eyJvcGUiOiJbXSg3KeKVoVx04pWeW10oZjUp4pWhXHTilZ5bXSgzKeKVoVx04pWeW10oOCnilaFcdOKVnltdKDQp4pWhXHTilZ5bXSg1KeKVoVx04pWeW10oMinilaFcdOKVnltdKGYzKSIsImxvbyI6IltdKDMp4pWhXHTilZ5bXSg1KeKVoVx04pWeW10oZjUp4pWhXHTilZ5bXSgyKeKVoVx04pWeW10oZjIp4pWhXHTilZ5bXShmNSnilaFcdOKVnltdKDMp4pWhXHTilZ5bXSg5KeKVoVx04pWeW10oNSnilaFcdOKVnltdKDIp4pWhXHTilZ5bXShmNCnilaFcdOKVnltdKDMp4pWhXHTilZ5bXSg1KeKVoVx04pWeW10oMCnilaFcdOKVnltdKDUp4pWhXHTilZ5bXSheKeKVoVx04pWeW10oZjUp4pWhXHTilZ5bXSgyKeKVoVx04pWeW10oZjEp4pWhXHTilZ5bXShmNSnilaFcdOKVnltdKDgp4pWhXHTilZ5bXSgzKeKVoVx04pWeW10oMynilaFcdOKVnltdKDQp4pWhXHTilZ5bXSgyKeKVoVx04pWeW10oNSnilaFcdOKVnltdKGYzKSIsInByaSI6IiJ9fQ==]```
-
-## Power Quickness Catalyst - Snowcrows
-Build Template Code: `[&DQYpHyU1Qz50AAAAvgEAAPgaAADuGgAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]`
-
-Rotation Template: `[&eyJ1aWQiOiI4ZGI4MzQ4ZC1lYzJiLTQ0YmMtYmNhOC1iMTgxY2MzYWMxZWIiLCJtYXQiOiIyMDIzLTAzLTA2VDA5OjMwOjU5LjA5Ni0wNjowMCIsImd3MiI6MTQyMjM5LCJ0aXQiOiJQb3dlciBRdWlja25lc3MgQ2F0YWx5c3QiLCJ0ZW0iOiJbJkRRWXBIeVUxUXo1MEFBQUF2Z0VBQVBnYUFBRHVHZ0FBbHdBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBPV0iLCJwcnciOnsibWhkIjoxMywib2hkIjoxfSwic253Ijp7Im1oZCI6MSwib2hkIjoxfSwicm90Ijp7Im9wZSI6IltdKDcp4pWhXHTilZ5bXShmNSnilaFcdOKVnltdKDMp4pWhXHTilZ5bXSg1KeKVoVx04pWeW10oMinilaFcdOKVnltdKGYxKSIsImxvbyI6IltdKGY1KeKVoVx04pWeW10oMynilaFcdOKVnltdKDgp4pWhXHTilZ5bXSg0KeKVoVx04pWeW10oNSnilaFcdOKVnltdKDIp4pWhXHTilZ5bXShmMinilaFcdOKVnltdKGY1KeKVoVx04pWeW10oMynilaFcdOKVnltdKDkp4pWhXHTilZ5bXSg1KeKVoVx04pWeW10oNCnilaFcdOKVnltdKDIp4pWhXHTilZ5bXShmNCnilaFcdOKVnltdKDUp4pWhXHTilZ5bXSgyKeKVoVx04pWeW10oMynilaFcdOKVnltdKGYzKeKVoVx04pWeW10oMinilaFcdOKVnltdKGY1KeKVoVx04pWeW10oZjEp4pWhXHTilZ5bXSg4KeKVoVx04pWeW10oMinilaFcdOKVnltdKGYyKeKVoVx04pWeW10oMSozKeKVoVx04pWeW10oMinilaFcdOKVnltdKGY0KeKVoVx04pWeW10oMCnilaFcdOKVnltdKDUp4pWhXHTilZ5bXSheKeKVoVx04pWeW10oMSnilaFcdOKVnltdKDIp4pWhXHTilZ5bXShmMynilaFcdOKVnltdKDMp4pWhXHTilZ5bXSg1KeKVoVx04pWeW10oMynilaFcdOKVnltdKDIp4pWhXHTilZ5bXShmMSkiLCJwcmkiOiIifX0=]`
-
-## Power Weaver - Snowcrows
-
-Build Template Code:
-
-Rotation Template:
-
-## Condi Weaver - Snowcrows
-
-Build Template Code:
-
-Rotation Template:
-
-# Engineer
-
-# Guardian
-
-# Mesmer
-
-# Necromancer
-
-# Ranger
-
-# Revenant
-
-# Thief
-
-# Warrior
+Alternatively: Message nulll#7146 on discord with the required fields and I will add it to the repo
