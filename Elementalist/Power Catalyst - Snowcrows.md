@@ -1,7 +1,7 @@
 ## Power Catalyst - Snowcrows
 Last Update - Dec 1, 2022
 
-Source:
+Source: https://snowcrows.com/en/builds/elementalist/catalyst/power-catalyst
 
 Build Template Code: `[&DQYfHSkfQyb+GgAAvgEAAPgaAADuGgAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]`
 
