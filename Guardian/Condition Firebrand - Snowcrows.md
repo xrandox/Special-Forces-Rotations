@@ -1,8 +1,11 @@
 ## Condition Firebrand - Snowcrows
-Last Update: 
+Last Update: Mar 2, 2023
 
-Source:
+Source: https://snowcrows.com/en/builds/guardian/firebrand/condition-firebrand
 
-Build Template Code: ` `
+Build Template Code: `[&DQEQGi4fPi1LFwAATAEAABUXAAAxAQAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]`
 
-Rotation Template: ` `
+Rotation Template: 
+Opener - `[&eyJ1aWQiOiIwZmRmOWUzMC04ZjJkLTQ1OWMtYTMwZi05NzYyMzM0NzJmMzkiLCJtYXQiOiIyMDIzLTAzLTA2VDEyOjAyOjE5LjY4NC0wNjowMCIsImd3MiI6MTQyMjM5LCJ0aXQiOiJDb25kaXRpb24gRmlyZWJyYW5kIC0gT3BlbmVyIiwidGVtIjoiWyZEUUVRR2k0ZlBpMUxGd0FBVEFFQUFCVVhBQUF4QVFBQWlSSUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQT1dIiwicHJ3Ijp7Im1oZCI6Miwib2hkIjoxMH0sInNudyI6eyJtaGQiOjYsIm9oZCI6MTB9LCJyb3QiOnsib3BlIjoiW10oMinilaFcdOKVnltdKDQp4pWhXHTilZ5bXSg3KeKVoVx04pWeW10oXinilaFcdOKVnltdKDIp4pWhXHTilZ5bXShmMSnilaFcdOKVnltdKDUp4pWhXHTilZ5bXSgyKeKVoVx04pWeW10oNCnilaFcdOKVnltdKF4p4pWhXHTilZ5bXSg0KjIp4pWhXHTilZ5bXSg1KeKVoVx04pWeW10oZjEp4pWhXHTilZ5bXSgyKeKVoVx04pWeW10oXinilaFcdOKVnltdKDIp4pWhXHTilZ5bXSg0KjMp4pWhXHTilZ5bXSheKSIsImxvbyI6IiIsInByaSI6IiJ9fQ==]`
+
+Notes: The majority of this rotation (outside of the opener) is based off of skill priority. You must learn that priority list on your own, the rotation trainer cannot teach you that. Thus, the provided template only includes the opener to practice.

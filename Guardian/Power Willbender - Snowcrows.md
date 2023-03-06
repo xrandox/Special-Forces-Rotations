@@ -1,8 +1,10 @@
 ## Power Willbender - Snowcrows
-Last Update: 
+Last Update: Mar 6, 2023
 
-Source:
+Source: https://snowcrows.com/en/builds/guardian/willbender/power-willbender
 
-Build Template Code: ` `
+Build Template Code: `[&DQEqOi4VQSYmDwAATAEAAEgBAAD+AAAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]`
 
-Rotation Template: ` `
+Rotation Template: `[&eyJ1aWQiOiIwMGI0MmMwZC1kNTRmLTQ5M2MtYmU4Ni05ZThiODc5NDlhZjMiLCJtYXQiOiIyMDIzLTAzLTA2VDEyOjAzOjQxLjUyNC0wNjowMCIsImd3MiI6MTQyMjM5LCJ0aXQiOiJQb3dlciBXaWxsYmVuZGVyIiwidGVtIjoiWyZEUUVxT2k0VlFTWW1Ed0FBVEFFQUFFZ0JBQUQrQUFBQWlSSUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQT1dIiwicHJ3Ijp7Im1oZCI6Nywib2hkIjo4fSwic253Ijp7Im1oZCI6MTIsIm9oZCI6MX0sInJvdCI6eyJvcGUiOiJbXShmMioyKeKVoVx04pWeW10oZjMp4pWhXHTilZ5bXSg1KeKVoVx04pWeW10oOCnilaFcdOKVnltdKDQp4pWhXHTilZ5bXSgyKeKVoVx04pWeW10oXikiLCJsb28iOiJbXSg0KeKVoVx04pWeW10oMSnilaFcdOKVnltdKDUp4pWhXHTilZ5bXSgzKeKVoVx04pWeW10oNCnilaFcdOKVnltdKDIp4pWhXHTilZ5bXSgzKeKVoVx04pWeW10oNCnilaFcdOKVnltdKDIp4pWhXHTilZ5bXSheKeKVoVx04pWeW10oMinilaFcdOKVnltdKDMp4pWhXHTilZ5bXSgyKeKVoVx04pWeW10oNSnilaFcdOKVnltdKDMp4pWhXHTilZ5bXSgyKeKVoVx04pWeW10oXikiLCJwcmkiOiJbXShmMSkifX0=]`
+
+Notes: This rotation does not include filler...you must fill extra time until certain skills come off cooldown yourself. Refer to the snowcrows build page.

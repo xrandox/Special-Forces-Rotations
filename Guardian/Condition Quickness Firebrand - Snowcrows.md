@@ -1,8 +1,11 @@
 ## Condition Quickness Firebrand - Snowcrows
-Last Update: 
+Last Update: Mar 6, 2023
 
-Source:
+Source: https://snowcrows.com/en/builds/guardian/firebrand/condition-quickness-firebrand
 
-Build Template Code: ` `
+Build Template Code: `[&DQEQGi4fPi5LFwAATAEAABUXAAB6FgAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]`
 
-Rotation Template: ` `
+Rotation Template: 
+Opener: `[&eyJ1aWQiOiIwZmRmOWUzMC04ZjJkLTQ1OWMtYTMwZi05NzYyMzM0NzJmMzkiLCJtYXQiOiIyMDIzLTAzLTA2VDExOjU2OjUzLjcyNC0wNjowMCIsImd3MiI6MTQyMjM5LCJ0aXQiOiJDb25kaXRpb24gUXVpY2tuZXNzIEZpcmVicmFuZCAtIE9wZW5lciIsInRlbSI6IlsmRFFFUUdpNGZQaTVMRndBQVRBRUFBQlVYQUFCNkZnQUFpUklBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUE9XSIsInBydyI6eyJtaGQiOjIsIm9oZCI6MTB9LCJzbnciOnsibWhkIjo2LCJvaGQiOjEwfSwicm90Ijp7Im9wZSI6IltdKDIp4pWhXHTilZ5bXSg0KeKVoVx04pWeW10oNynilaFcdOKVnltdKF4p4pWhXHTilZ5bXSgyKeKVoVx04pWeW10oZjEp4pWhXHTilZ5bXSg1KeKVoVx04pWeW10oMinilaFcdOKVnltdKDQp4pWhXHTilZ5bXSheKeKVoVx04pWeW10oNCoyKeKVoVx04pWeW10oNSnilaFcdOKVnltdKGYxKeKVoVx04pWeW10oMinilaFcdOKVnltdKF4p4pWhXHTilZ5bXSgyKeKVoVx04pWeW10oNCozKeKVoVx04pWeW10oXikiLCJsb28iOiIiLCJwcmkiOiIifX0=]`
+
+Notes: The majority of this rotation (outside of the opener) is based off of skill priority. You must learn that priority list on your own, the rotation trainer cannot teach you that. Thus, the provided template only includes the opener to practice.

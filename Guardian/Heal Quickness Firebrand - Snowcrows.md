@@ -1,8 +1,11 @@
 ## Heal Quickness Firebrand - Snowcrows
-Last Update: 
+Last Update: Dec 30, 2022
 
-Source:
+Source: https://snowcrows.com/en/builds/guardian/firebrand/heal-quickness-firebrand
 
-Build Template Code: ` `
+Build Template Code: `[&DQExJy4rPhZLFwAAehYAAAAAAAAAAAAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]`
 
-Rotation Template: ` `
+Rotation Template: 
+Healing Burst: `[&eyJ1aWQiOiIzZTQ3OWRkOS1iMDNkLTQxYjYtOWYyMS0zNjk4MTgwMzE3ZGIiLCJtYXQiOiIyMDIzLTAzLTA2VDExOjQ4OjM3LjcyNi0wNjowMCIsImd3MiI6MTQyMjM5LCJ0aXQiOiJIZWFsIFF1aWNrbmVzcyBGaXJlYnJhbmQgLSBCdXJzdCBIZWFsaW5nIiwidGVtIjoiWyZEUUV4Snk0clBoWkxGd0FBZWhZQUFBQUFBQUFBQUFBQWlSSUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQT1dIiwicHJ3Ijp7Im1oZCI6MTcsIm9oZCI6MX0sInNudyI6eyJtaGQiOjIsIm9oZCI6OX0sInJvdCI6eyJvcGUiOiIiLCJsb28iOiJbXSg0KeKVoVx04pWeW10oOCnilaFcdOKVnltdKDIp4pWhXHTilZ5bXSgzKeKVoVx04pWeW10odinilaFcdOKVnltdKF4p4pWhXHTilZ5bXSgyKeKVoVx04pWeW10oNSoyKeKVoVx04pWeW10oZjIp4pWhXHTilZ5bXSg1KeKVoVx04pWeW10oMSoyKSIsInByaSI6IiJ9fQ==]`
+
+Notes: This is a support build and thus does not have a "rotation" so to speak. The provided "rotation" is just your healing burst.
