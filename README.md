@@ -4,6 +4,11 @@ This repo is meant to be a community-managed collection of rotation templates to
 
 Templates are sorted by profession
 
+## Currently There are Builds for:
+- Snowcrows Ele Builds
+- Snowcrows Guardian Builds
+- Snowcrows Necro Builds
+
 ## How to Use:
 - Click on the folder of the profession you want to find a rotation for
 - Click on one of the builds you want to use
