@@ -2,6 +2,8 @@
 
 This repo is meant to be a community-managed collection of rotation templates to use with the Special Forces BHUD module.
 
+IMPORTANT: This project has been put on hold until the module gets updated to avoid any issues when the new UI comes out
+
 Templates are sorted by profession
 
 ## Currently There are Builds for:
